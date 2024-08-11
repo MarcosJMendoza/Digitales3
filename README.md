@@ -2,16 +2,26 @@
 
 ## Tarea: Descargar repositorio y añadir la receta de su comida favorita
 1 k bola lomo
+
 3 cebollas medianas
+
 5 tallos cebolla de verdeo
+
 6 huevos
+
 a gusto Pimentón dulce
+
 a gusto Ají molido
+
 a gusto Provenzal
+
 3 cucharadas grasa
+
 a gusto Sal fina
+
 1 papa chica
-1 caldo de verdura
+
+1 caldo de carne
 
 Preparación
 Cortar lo más chiquito posible la carne
@@ -36,4 +46,5 @@ Luego hacer el repulgue con una cucharada de relleno.
 
 8
 A disfrutar con la salsa yasgua bien picante;
+
 Gracias.
