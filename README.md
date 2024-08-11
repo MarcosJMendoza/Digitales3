@@ -9,7 +9,7 @@ a gusto Pimentón dulce
 a gusto Ají molido
 a gusto Provenzal
 3 cucharadas grasa
-a gusto Sal fina.
+a gusto Sal fina
 1 papa chica
 1 caldo de verdura
 
@@ -35,4 +35,5 @@ En una fuente poner la carne, encima los huevos y luego la cebolla de verdeo y d
 Luego hacer el repulgue con una cucharada de relleno.
 
 8
-A disfrutar con la salsa yasgua bien picante
+A disfrutar con la salsa yasgua bien picante;
+Gracias.
