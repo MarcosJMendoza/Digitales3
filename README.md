@@ -9,7 +9,7 @@ a gusto Pimentón dulce
 a gusto Ají molido
 a gusto Provenzal
 3 cucharadas grasa
-a gusto Sal fina
+a gusto Sal fina.
 1 papa chica
 1 caldo de verdura
 
