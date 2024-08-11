@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-
 int main(){
     printf("este es un programa sencillo.\n");
     int valor;
