@@ -1,7 +1,7 @@
 # MyFirstRepo
 
 ## Tarea: Descargar repositorio y añadir la receta de su comida favorita
-1 k bola lomo
+1 kg bola lomo
 
 3 cebollas medianas
 
@@ -9,15 +9,15 @@
 
 6 huevos
 
-a gusto Pimentón dulce
+Pimentón dulce
 
-a gusto Ají molido
+Ají molido
 
-a gusto Provenzal
+Provenzal
 
 3 cucharadas grasa
 
-a gusto Sal fina
+ Sal fina
 
 1 papa chica
 
